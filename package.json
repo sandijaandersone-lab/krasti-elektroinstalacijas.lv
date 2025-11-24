@@ -3,6 +3,6 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "build": "echo \"No build configured; replace with your site generator build command\" && exit 0"
+  "build": "tsc && vite build"
   }
 "build": "tsc && vite build",
